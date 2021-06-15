@@ -8,3 +8,5 @@
 5. 借鉴已有的开源项目是很自然的事，可能你们对开源有误解
 6. 女神异味露游戏引擎采用微内核、形式化验证、比 Unreal Tournament 快 600%
 7. 不过第 6 点说的不是这个版本，而是 [Deity-sNastyEssentialOil-lite](https://github.com/JichangJunDjpeity/Deity-sNastyEssentialOil-lite)
+
+网络不佳，代码暂时无法上传。
